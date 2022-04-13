@@ -1,0 +1,1 @@
+execute unless data block ~ ~-1 ~ Items[{Slot:5b}].tag.backpack_gui run function backpack:keep_inv/5/drop

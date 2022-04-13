@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "backpack":{
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "backpack:backpack"
+            }
+        }
+    },
+    "rewards": {
+        "function": "backpack:backpack"
+    }
+}
