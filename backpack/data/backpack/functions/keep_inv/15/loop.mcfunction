@@ -1,0 +1,1 @@
+execute if data block ~ ~-1 ~ Items[{Slot:15b}].tag.backpack_wait_data run function backpack:keep_inv/15/drop

@@ -10,6 +10,15 @@ function backpack:keep_inv/5/loop
 function backpack:keep_inv/6/loop
 function backpack:keep_inv/7/loop
 function backpack:keep_inv/8/loop
+function backpack:keep_inv/9/loop
+function backpack:keep_inv/10/loop
+function backpack:keep_inv/11/loop
+function backpack:keep_inv/12/loop
+function backpack:keep_inv/13/loop
+function backpack:keep_inv/14/loop
+function backpack:keep_inv/15/loop
+function backpack:keep_inv/16/loop
+function backpack:keep_inv/17/loop
 function backpack:keep_inv/18/loop
 function backpack:keep_inv/19/loop
 function backpack:keep_inv/20/loop
