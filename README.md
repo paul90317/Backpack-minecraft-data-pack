@@ -5,7 +5,7 @@ only `"backpack/"` is a real data pack, and `"x/"`, `"y/"` are templates, they p
 * `"z/"` means this slot can't put any thing, so item put into it will be dropped and replaced by `"brown_stained_glass_pane"`. 
 
 and you can download it from this repos, or my other websites (recommended)
-* [minecraft planed](https://www.planetminecraft.com/data-pack/backpack-1-18-2/)  
+* [minecraft planet](https://www.planetminecraft.com/data-pack/backpack-1-18-2/)  
 * [curse forge](https://www.curseforge.com/minecraft/texture-packs/backpack-1-18-2-data-pack)
 
 ### Don't repost it
