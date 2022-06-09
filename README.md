@@ -1,5 +1,7 @@
 # Backpack
-[`backpack/`](/backpack/) is a real data pack.  
+[`backpack/`](/backpack/) is a data pack.  
+[`backpack_upgrade/`](/backpack_upgrade/) is an upgrade data pack.  
+above two version is incompitible.  
 [`resourcepacks/backpack`](/resourcepacks/backpack/) is the required resource pack.   
 `x/`, `z/` are templates, they preset a type of slot in the backpack
 * `x/` means this slot can put a itemstack in, however, backpack put in will be dropped.

@@ -1,0 +1,12 @@
+{
+    "type": "smithing",
+    "base": {
+        "item": "minecraft:leather_chestplate"
+    },
+    "addition": {
+        "item": "minecraft:emerald_block"
+    },
+    "result": {
+        "item": "minecraft:leather_helmet"
+    }
+}
