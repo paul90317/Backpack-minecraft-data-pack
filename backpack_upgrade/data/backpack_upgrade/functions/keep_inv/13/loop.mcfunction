@@ -1,1 +1,2 @@
 execute if data block ~ ~-1 ~ Items[{Slot:13b}].tag.backpack_wait_data run function backpack_upgrade:keep_inv/13/drop
+execute if data block ~ ~-1 ~ Items[{Slot:13b}].tag.backpack_gui run function backpack_upgrade:keep_inv/13/drop
