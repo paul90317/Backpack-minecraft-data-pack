@@ -1,0 +1,1 @@
+summon item ~ ~ ~ {Tags:[backpack.dont_set_data],Motion:[0.0,0.3,0.0],Item:{id:"minecraft:leather_chestplate",Count:1,tag:{AttributeModifiers:[],is_backpack:1b,display:{Name:'{"text": "Backpack","italic": false}'},CustomModelData:777989,Unbreakable:1b}},CustomName:'{"text":"Backpack","italic": false}',CustomNameVisible:1b}

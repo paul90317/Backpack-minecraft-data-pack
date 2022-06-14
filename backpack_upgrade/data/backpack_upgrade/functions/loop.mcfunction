@@ -1,2 +1,1 @@
-execute as @e[type=item,tag=!backpack.dont_set_data,nbt={OnGround:1b,Item:{id:"minecraft:leather_helmet",tag:{backpack_wait_data:1b}}}] at @s run function backpack_upgrade:set_data
-execute as @e[type=item_frame,tag=backpack_upgrade.keeper] at @s run function backpack_upgrade:keeper
+execute as @e[type=item_frame,tag=backpack.keeper,nbt={Item:{id:"minecraft:leather_helmet"}}] at @s run function backpack_upgrade:keeper

@@ -1,1 +1,1 @@
-execute if data block ~ ~-1 ~ Items[{Slot:9b}].tag.backpack_wait_data run function backpack:keep_inv/9/drop
+execute if data block ~ ~-1 ~ Items[{Slot:9b}].tag.is_backpack run function backpack:keep_inv/9/drop

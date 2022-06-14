@@ -8,6 +8,6 @@
         }
     },
     "rewards": {
-        "function": "backpack:backpack"
+        "function": "backpack:item/craft"
     }
 }

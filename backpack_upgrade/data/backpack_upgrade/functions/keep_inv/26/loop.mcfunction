@@ -1,1 +1,0 @@
-execute unless data block ~ ~-1 ~ Items[{Slot:26b}].tag.backpack_exit run function backpack_upgrade:keep_inv/26/exit

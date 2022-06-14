@@ -1,1 +1,0 @@
-execute unless data block ~ ~-1 ~ Items[{Slot:21b}].tag.backpack_gui run function backpack_upgrade:keep_inv/21/drop

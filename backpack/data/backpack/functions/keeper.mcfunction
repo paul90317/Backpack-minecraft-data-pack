@@ -1,5 +1,4 @@
-execute unless block ~ ~-1 ~ barrel positioned ~ ~-1 ~ run function backpack:destroy/kill
-execute unless block ~ ~ ~ #backpack:air run item replace block ~ ~-1 ~ container.26 with air
+function backpack:keeper_check_exit
 
 function backpack:keep_inv/0/loop
 function backpack:keep_inv/1/loop

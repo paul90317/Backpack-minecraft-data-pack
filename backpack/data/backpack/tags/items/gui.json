@@ -2,6 +2,9 @@
     "values": [
         "barrier",
         "brown_stained_glass_pane",
-        "cookie"
+        "cookie",
+        "leather_chestplate",
+        "leather_helmet",
+        "item_frame"
     ]
 }
