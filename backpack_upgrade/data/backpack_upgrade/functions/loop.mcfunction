@@ -1,1 +1,2 @@
-execute as @e[type=item_frame,tag=backpack.keeper,nbt={Item:{id:"minecraft:leather_helmet"}}] at @s run function backpack_upgrade:keeper
+execute as @e[type=item_frame,tag=backpack.keeper,nbt={Item:{tag:{is_big_backpack:1b}}}] at @s run function backpack_upgrade:keeper
+execute as @e[type=item,nbt={Item:{tag:{is_big_backpack:0b}},OnGround:1b}] at @s run function backpack_upgrade:upgrade/check
